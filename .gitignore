@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+*/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Project exclude paths
+/gradlePlugin/hub-configuration/build/
+/gradlePlugin/hub-dependency/build/
